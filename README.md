@@ -1,2 +1,2 @@
 # website
-a site about my dogs (:
+a site about my dog (:
